@@ -1,4 +1,4 @@
-Whole-brain computation of cognitive versus acoustic errors in music: A mismatch negativity study
+# Whole-brain computation of cognitive versus acoustic errors in music: A mismatch negativity study
 
 NeuroImage:Reports
 
